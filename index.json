@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sphinxcontrib-skeleton",
+  "versions": [
+    {
+      "commit": "f59056109f5a18174e1756f33b9691fbccb0fd96",
+      "tag": "v0.0.2",
+      "parsed_at": "2026-11-06T18:18:52.738284+00:00"
+    }
+  ]
+}
