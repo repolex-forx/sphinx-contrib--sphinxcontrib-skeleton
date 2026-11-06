@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sphinxcontrib-skeleton/commit/f59056109f5a18174e1756f33b9691fbccb0fd96",
       "git:hexsha": "f59056109f5a18174e1756f33b9691fbccb0fd96",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.0.2"
     },
     {
